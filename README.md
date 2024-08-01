@@ -1,2 +1,3 @@
-# ml-Code-Challenges
-Solutions to machine learning code challenges from deep-ml.com
+# ml-code-challenges
+Solutions to machine learning code challenges from [deep-ml.com](https://www.deep-ml.com/)
+
